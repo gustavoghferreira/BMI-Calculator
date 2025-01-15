@@ -1,0 +1,32 @@
+D:\TI\Projects\BMI Calculator\bin\Debug\net8.0-windows\BMI Calculator.exe
+D:\TI\Projects\BMI Calculator\bin\Debug\net8.0-windows\BMI Calculator.deps.json
+D:\TI\Projects\BMI Calculator\bin\Debug\net8.0-windows\BMI Calculator.runtimeconfig.json
+D:\TI\Projects\BMI Calculator\bin\Debug\net8.0-windows\BMI Calculator.dll
+D:\TI\Projects\BMI Calculator\bin\Debug\net8.0-windows\BMI Calculator.pdb
+D:\TI\Projects\BMI Calculator\obj\Debug\net8.0-windows\BMI_Calculator.Form1.resources
+D:\TI\Projects\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.csproj.GenerateResource.cache
+D:\TI\Projects\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\TI\Projects\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.AssemblyInfoInputs.cache
+D:\TI\Projects\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.AssemblyInfo.cs
+D:\TI\Projects\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.csproj.CoreCompileInputs.cache
+D:\TI\Projects\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.dll
+D:\TI\Projects\BMI Calculator\obj\Debug\net8.0-windows\refint\BMI Calculator.dll
+D:\TI\Projects\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.pdb
+D:\TI\Projects\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.genruntimeconfig.cache
+D:\TI\Projects\BMI Calculator\obj\Debug\net8.0-windows\ref\BMI Calculator.dll
+D:\TI\C#\Projects C#\BMI Calculator\bin\Debug\net8.0-windows\BMI Calculator.exe
+D:\TI\C#\Projects C#\BMI Calculator\bin\Debug\net8.0-windows\BMI Calculator.deps.json
+D:\TI\C#\Projects C#\BMI Calculator\bin\Debug\net8.0-windows\BMI Calculator.runtimeconfig.json
+D:\TI\C#\Projects C#\BMI Calculator\bin\Debug\net8.0-windows\BMI Calculator.dll
+D:\TI\C#\Projects C#\BMI Calculator\bin\Debug\net8.0-windows\BMI Calculator.pdb
+D:\TI\C#\Projects C#\BMI Calculator\obj\Debug\net8.0-windows\BMI_Calculator.Form1.resources
+D:\TI\C#\Projects C#\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.csproj.GenerateResource.cache
+D:\TI\C#\Projects C#\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\TI\C#\Projects C#\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.AssemblyInfoInputs.cache
+D:\TI\C#\Projects C#\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.AssemblyInfo.cs
+D:\TI\C#\Projects C#\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.csproj.CoreCompileInputs.cache
+D:\TI\C#\Projects C#\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.dll
+D:\TI\C#\Projects C#\BMI Calculator\obj\Debug\net8.0-windows\refint\BMI Calculator.dll
+D:\TI\C#\Projects C#\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.pdb
+D:\TI\C#\Projects C#\BMI Calculator\obj\Debug\net8.0-windows\BMI Calculator.genruntimeconfig.cache
+D:\TI\C#\Projects C#\BMI Calculator\obj\Debug\net8.0-windows\ref\BMI Calculator.dll
